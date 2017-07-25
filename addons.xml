@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addons>
-<addon id="plugin.video.FamilyKaraoke"
-       name="Family Karaoke"
-       version="1.0.1"
-       provider-name="bonny">
+<addon id="plugin.video.Planeta"
+       name="Planeta"
+       version="1.1.1"
+       provider-name="CaNeEs">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
     <import addon="script.module.beautifulsoup" version="3.2.1"/>
